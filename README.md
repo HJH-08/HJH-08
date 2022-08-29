@@ -1,8 +1,9 @@
 <div id="header" align="center">
-  <img src=""C:\Users\Ho Jun Han\Downloads\HI, I'M JUN HAN.gif"" width="100"/>
+  <img src="https://github.com/HJH-08/HJH-08/blob/main/HI%2C%20I'M%20JUN%20HAN.gif" width="1000"/>
+
 </div>
 
-
+<br>
 
 <p align='center'>
   <a href="https://instagram.com/hojunhan__"><img height="30" src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png"></a>&nbsp;&nbsp;
